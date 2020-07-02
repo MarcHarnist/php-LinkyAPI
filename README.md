@@ -10,6 +10,11 @@
 
 ---
 
+# WARNING
+
+> Enedis a changé sa page de login, notamment avec un captcha. Et toujours pas d'API officielle à ma connaissance.
+Il semble donc que cette API soit maintenant inutilisable, et sans alternative. Merci Enedis ...
+
 ## API php pour récupérer vos données de consommations Linky
 
 Voici une API simple d'utilisation pour récupérer vos données de consommations du compteur Linky, sous forme json, lisible !
